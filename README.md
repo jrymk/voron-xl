@@ -1,6 +1,11 @@
 # Upside-down Voron 2.4
 The electronics bay really should be on the top, as well as the Z drives, right?
 
+### benefits
+- easy maintainence
+- better z drive belts (belts in tension is shorter)
+- bigger print area (taller z)
+- easier enclosure insulation
 
 
 ## Other mods
