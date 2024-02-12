@@ -1,5 +1,9 @@
-# voron-2-mods
-My Voron 2.4 (V2.6301) mods
+# Upside-down Voron 2.4
+The electronics bay really should be on the top, as well as the Z drives, right?
+
+
+
+## Other mods
 
 ### Bambu A1 Mini Nozzle Wiper
 
