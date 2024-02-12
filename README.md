@@ -3,8 +3,8 @@ The electronics bay really should be on the top, as well as the Z drives, right?
 
 ### benefits
 - easy maintainence
-- better z drive belts (belts in tension is shorter)
-- bigger print area (taller z)
+- better z drive belts (less belt in tension, less tension needed? longer belt longevity?)
+- bigger print volume (full 350mm Z travel)
 - easier enclosure insulation
 
 
